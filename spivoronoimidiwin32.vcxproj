@@ -83,6 +83,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="spi.licenseheader" />
     <None Include="spivoronoimidiwin32.ico" />
   </ItemGroup>
   <ItemGroup>
